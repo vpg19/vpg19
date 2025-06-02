@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @vpg19
-- 👀 I’m an enthusiastic pyhton developer.
+# 👋 Hi, I’m @vpg19
 
-
-<!---
-vpg19/vpg19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🧠 I’m an enthusiastic Python developer.
+- 🔧 I know how to work with APIs, make HTTP requests, and use BeautifulSoup for web scraping.
+- 🐍 Still learning and exploring more in Python every day.
+- 💻 Also familiar with C and C++.
