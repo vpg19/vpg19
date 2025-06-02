@@ -6,4 +6,4 @@
 - 💻 Also familiar with C and C++.
 ## 🌐 Connect with me
 - [GitHub](https://github.com/vpg19)
-- [LinkedIn](https://linkedin.com/in/vansh-prakash-gupta)
+- [LinkedIn](https://linkedin.com/in/vansh-prakash-gupta-a26076241)
